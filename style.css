@@ -1,0 +1,15 @@
+body {
+  background-color: #36454f;
+}
+
+button {
+  margin: .5rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  background-color: #4f4036;
+  color: white;
+  border: outset #4f4d36;
+}
+#top {
+  text-align: center;
+}

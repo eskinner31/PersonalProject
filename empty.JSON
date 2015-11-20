@@ -1,0 +1,126 @@
+var data = [
+  {
+    "Day Index":"10/20/15",
+    "Sessions":173
+  },
+  {
+    "Day Index":"10/21/15",
+    "Sessions":158
+  },
+  {
+    "Day Index":"10/22/15",
+    "Sessions":138
+  },
+  {
+    "Day Index":"10/23/15",
+    "Sessions":185
+  },
+  {
+    "Day Index":"10/24/15",
+    "Sessions":46
+  },
+  {
+    "Day Index":"10/25/15",
+    "Sessions":51
+  },
+  {
+    "Day Index":"10/26/15",
+    "Sessions":191
+  },
+  {
+    "Day Index":"10/27/15",
+    "Sessions":273
+  },
+  {
+    "Day Index":"10/28/15",
+    "Sessions":182
+  },
+  {
+    "Day Index":"10/29/15",
+    "Sessions":136
+  },
+  {
+    "Day Index":"10/30/15",
+    "Sessions":176
+  },
+  {
+    "Day Index":"10/31/15",
+    "Sessions":39
+  },
+  {
+    "Day Index":"11/1/15",
+    "Sessions":46
+  },
+  {
+    "Day Index":"11/2/15",
+    "Sessions":143
+  },
+  {
+    "Day Index":"11/3/15",
+    "Sessions":158
+  },
+  {
+    "Day Index":"11/4/15",
+    "Sessions":298
+  },
+  {
+    "Day Index":"11/5/15",
+    "Sessions":208
+  },
+  {
+    "Day Index":"11/6/15",
+    "Sessions":144
+  },
+  {
+    "Day Index":"11/7/15",
+    "Sessions":35
+  },
+  {
+    "Day Index":"11/8/15",
+    "Sessions":33
+  },
+  {
+    "Day Index":"11/9/15",
+    "Sessions":131
+  },
+  {
+    "Day Index":"11/10/15",
+    "Sessions":114
+  },
+  {
+    "Day Index":"11/11/15",
+    "Sessions":118
+  },
+  {
+    "Day Index":"11/12/15",
+    "Sessions":113
+  },
+  {
+    "Day Index":"11/13/15",
+    "Sessions":154
+  },
+  {
+    "Day Index":"11/14/15",
+    "Sessions":34
+  },
+  {
+    "Day Index":"11/15/15",
+    "Sessions":40
+  },
+  {
+    "Day Index":"11/16/15",
+    "Sessions":92
+  },
+  {
+    "Day Index":"11/17/15",
+    "Sessions":112
+  },
+  {
+    "Day Index":"11/18/15",
+    "Sessions":101
+  },
+  {
+    "Day Index":"11/19/15",
+    "Sessions":105
+  }
+]
